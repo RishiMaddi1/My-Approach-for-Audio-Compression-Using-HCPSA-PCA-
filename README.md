@@ -10,17 +10,4 @@
 ![pca_hcpsa-5](https://github.com/user-attachments/assets/695739e4-2be8-4ebb-b42b-d756390b1e1d)
 
 
-## License Agreement
 
-Copyright © 2025  
-All rights reserved. Maddi Rishi Dhaneswar
-
-This software and its associated documentation are proprietary and confidential.  
-Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
-
-This repository is shared for academic evaluation and publication purposes only.
-
-If you wish to collaborate, request access, or seek clarification, please contact:  
-maddi.rishi2468@gmail.com
-
-No license is granted by implication, estoppel, or otherwise.
